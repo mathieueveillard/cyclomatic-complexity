@@ -1,4 +1,4 @@
-# js-kata-starter
+# cyclomatic-complexity
 
 Starter project for kata (Node, TypeScript, Jest)
 
